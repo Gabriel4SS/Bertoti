@@ -32,6 +32,8 @@ Os usuários não devem ter que se perguntar o que significa nada do sistema, po
   Uso de abreviações que muitos podem não saber o significado e mudanças de idioma são coisas que devemos evitar 
    
 ![exemplo9](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%202.png)
+</details>
+
 
 ##  3- Liberdade e controle do usuário
 Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado, gerando a sensação de controle e liberdade ao usuario.
