@@ -1,6 +1,6 @@
 # HEURÍSTICAS DE NIELSEN
 
-este repositório foi criado para uma atividade onde devemos colocar aqui alguns dos erros de euristicas que encontrarmos.
+Este repositório foi criado para uma atividade onde devemos colocar aqui alguns dos erros de euristicas que encontrarmos.
 <br> As euristicas são um conjuntos de 10 "regras" que farão com que a experiencia de usuario seja a melhor possivel, portanto é altamente aconselhável que quanquer pessoa que pretenda criar um um site se atente a elas.   
 
 >Você pode ver todas as heurísticas e a ideia por trás de cada um dos tópicos [CLICANDO AQUI](https://www.nngroup.com/articles/ten-usability-heuristics/).
