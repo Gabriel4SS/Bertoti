@@ -80,9 +80,9 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
    
    ![image](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%208.1.jpeg)
 
-   ![image](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%209.2.jpg)
+   ![image](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%208.2.jpg)
 
-   ![image](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%209.jpeg)
+   ![image](https://github.com/Gabriel4SS/Bertoti/blob/main/euristicas/assets/eu%208.jpeg)
 
 </details>
 
